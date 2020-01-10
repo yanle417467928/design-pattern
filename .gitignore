@@ -1,2 +1,11 @@
 # Project exclude paths
 /target/
+.idea/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+design-pattern.iml
